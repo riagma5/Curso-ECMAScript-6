@@ -59,3 +59,8 @@ console.log(education);
 {
     let globalLet = "Global let";
 }
+
+let name = 'oscar';
+let age = 32;
+
+obj = { name: name, age: age };
