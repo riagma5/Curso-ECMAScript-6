@@ -1,4 +1,5 @@
 # Curso-ECMAScript-6
+Creado en el 2015
 
 ## INICIALIZAR PROYECTO
 
@@ -15,3 +16,7 @@ Para correr bloques de código es neceario tener el plugin dentro de VCODE "code
 Let esta hecho para un bloque de código definido.
 Var esta hecho para todo el bloque de código de manera global.
 Const es definida para una constante.
+
+## COMANDOS
+yield es como un return.
+
