@@ -20,3 +20,8 @@ Const es definida para una constante.
 ## COMANDOS
 yield es como un return.
 
+## ECMAS11
+importacion mas simple
+numeros mayores a 2^56
+globalthis
+operador null
